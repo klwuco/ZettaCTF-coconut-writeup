@@ -1,4 +1,4 @@
-The following challenge is from the [Zetta-CTF](php.checksec.sh:8000)  *PHP: Horrific Puzzle*, during the [VXCON](www.vxcon.hk) in Hong Kong, 27 Apr - 28 Apr. The challenge is named 🥥.
+The following challenge is from the [Zetta-CTF](http://php.checksec.sh:8000)  *PHP: Horrific Puzzle*, during the [VXCON](https://www.vxcon.hk) in Hong Kong, 27 Apr - 28 Apr. The challenge is named 🥥.
 (btw no one plays)
 
 ## Challenge
